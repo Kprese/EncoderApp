@@ -1,0 +1,15 @@
+C:\Users\LMartin\source\repos\TextEncoderApp\TextEncoderApp\bin\Debug\net6.0\TextEncoderApp.exe
+C:\Users\LMartin\source\repos\TextEncoderApp\TextEncoderApp\bin\Debug\net6.0\TextEncoderApp.deps.json
+C:\Users\LMartin\source\repos\TextEncoderApp\TextEncoderApp\bin\Debug\net6.0\TextEncoderApp.runtimeconfig.json
+C:\Users\LMartin\source\repos\TextEncoderApp\TextEncoderApp\bin\Debug\net6.0\TextEncoderApp.dll
+C:\Users\LMartin\source\repos\TextEncoderApp\TextEncoderApp\bin\Debug\net6.0\TextEncoderApp.pdb
+C:\Users\LMartin\source\repos\TextEncoderApp\TextEncoderApp\obj\Debug\net6.0\TextEncoderApp.csproj.AssemblyReference.cache
+C:\Users\LMartin\source\repos\TextEncoderApp\TextEncoderApp\obj\Debug\net6.0\TextEncoderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LMartin\source\repos\TextEncoderApp\TextEncoderApp\obj\Debug\net6.0\TextEncoderApp.AssemblyInfoInputs.cache
+C:\Users\LMartin\source\repos\TextEncoderApp\TextEncoderApp\obj\Debug\net6.0\TextEncoderApp.AssemblyInfo.cs
+C:\Users\LMartin\source\repos\TextEncoderApp\TextEncoderApp\obj\Debug\net6.0\TextEncoderApp.csproj.CoreCompileInputs.cache
+C:\Users\LMartin\source\repos\TextEncoderApp\TextEncoderApp\obj\Debug\net6.0\TextEncoderApp.dll
+C:\Users\LMartin\source\repos\TextEncoderApp\TextEncoderApp\obj\Debug\net6.0\refint\TextEncoderApp.dll
+C:\Users\LMartin\source\repos\TextEncoderApp\TextEncoderApp\obj\Debug\net6.0\TextEncoderApp.pdb
+C:\Users\LMartin\source\repos\TextEncoderApp\TextEncoderApp\obj\Debug\net6.0\TextEncoderApp.genruntimeconfig.cache
+C:\Users\LMartin\source\repos\TextEncoderApp\TextEncoderApp\obj\Debug\net6.0\ref\TextEncoderApp.dll
